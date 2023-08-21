@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C5616AQHmhjXewtGxjA/profile-displaybackgroundimage-shrink_200_800/0/1663773799805?e=2147483647&v=beta&t=0qbxgtcSh1tHUUmFAKT9QpddEglRtc4BeyJpKRxRqgY)
+![MasterHead]((https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/318534734/original/0f37f8dd03cb71f0660f60bf75c513fa1288c7b2/be-your-sqa-engineer-and-qa-tester-for-your-software.jpg))
 
 
 <h1 align="center">Hi there 👋, I'm Rana Tabassum</h1>
